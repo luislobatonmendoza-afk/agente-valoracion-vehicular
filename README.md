@@ -9,3 +9,9 @@ El sistema resuelve la asimetría de información en el mercado secundario de ve
 * `app.py`: Script principal de la aplicación interactiva construida con Gradio.
 * `requirements.txt`: Lista de dependencias del entorno de ejecución.
 * `rf_pipeline.pkl`: Serialización del pipeline de preprocesamiento y modelo clasificador.
+
+##Integrantes
+- Lobaton Mendoza, Luis Angel
+- Moreno Agreda, Elmer
+- Pereda Obando, Luis Gonzalo
+- Sifuentes Berrocal, Edy
